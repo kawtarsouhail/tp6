@@ -10,4 +10,9 @@ public class Etudiant {
         this.prenom = prenom;
         this.age = age;
     }
+   public  String collaborationFeature()
+   {
+    return " ";
+     
+   }
 }
